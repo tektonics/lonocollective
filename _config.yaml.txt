@@ -1,0 +1,17 @@
+# Site settings
+title: Lono Collective
+description: Cooperative Intelligence
+url: "https://tektonics.github.io"
+baseurl: "/lonocollective"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Exclude files from processing
+exclude:
+  - src/
+  - README.md
+  - Gemfile
+  - Gemfile.lock
