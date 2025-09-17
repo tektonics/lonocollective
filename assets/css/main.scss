@@ -35,6 +35,7 @@ body::before {
 
 .container {
     min-height: 100vh;
+    min-width: 80vw;
     display: flex;
     flex-direction: column;
 }
