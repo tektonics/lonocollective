@@ -4,6 +4,6 @@ title: About
 ---
 
 <div class="about-hero">
-    <h1>About Lono Collective</h1>
+    <h1>About The Lono Collective</h1>
     <div class="hero-accent"></div>
 </div>
